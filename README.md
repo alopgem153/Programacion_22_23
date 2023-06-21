@@ -7,7 +7,7 @@ La parte teórica y enunciadosde los diferentes ejercicios propuestos está reco
 ![imagen](https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg)
 
 ## Contenidos
-0  - Instalacion del Software  
+0  - [Instalacion del Software](./instalacionSW)  
 1  - Conceptos Básicos  
 2  - Desarrollo de Software  
 3  - Sentencias de Seleccion  
